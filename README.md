@@ -1,6 +1,6 @@
 end-to-end app.
 
-add empty data-base to your local mongoDB called "toy_db" and a new empty collection called "toy"
+add empty data-base to your local mongoDB called "toy_db" and 3 new empty collections called "toy", "review", "user".
 
 npm i both the frontend and the backend.
 
