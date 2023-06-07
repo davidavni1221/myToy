@@ -1,5 +1,5 @@
 module.exports = {
-  // dbURL:'mongodb+srv://toys1:1234@cluster0.z2lwcfr.mongodb.net/?retryWrites=true&w=majority',
+  dbURL:'mongodb+srv://toys1:1234@cluster0.z2lwcfr.mongodb.net/?retryWrites=true&w=majority',
 
-  dbURL: 'mongodb://localhost:27017',
+  // dbURL: 'mongodb://localhost:27017',
 }
